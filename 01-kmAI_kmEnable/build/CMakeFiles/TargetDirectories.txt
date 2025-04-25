@@ -1,0 +1,3 @@
+/home/kmbox/kmboxAI/01-kmAI_kmEnable/build/CMakeFiles/rebuild_cache.dir
+/home/kmbox/kmboxAI/01-kmAI_kmEnable/build/CMakeFiles/edit_cache.dir
+/home/kmbox/kmboxAI/01-kmAI_kmEnable/build/CMakeFiles/kmboxApp.exe.dir

@@ -1,0 +1,3 @@
+/home/kmbox/kmboxAI/02-keyboard_test/build/CMakeFiles/rebuild_cache.dir
+/home/kmbox/kmboxAI/02-keyboard_test/build/CMakeFiles/edit_cache.dir
+/home/kmbox/kmboxAI/02-keyboard_test/build/CMakeFiles/kmboxApp.exe.dir

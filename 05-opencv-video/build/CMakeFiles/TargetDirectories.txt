@@ -1,0 +1,3 @@
+/home/kmbox/kmboxAI/05-opencv-video/build/CMakeFiles/rebuild_cache.dir
+/home/kmbox/kmboxAI/05-opencv-video/build/CMakeFiles/edit_cache.dir
+/home/kmbox/kmboxAI/05-opencv-video/build/CMakeFiles/kmboxApp.exe.dir

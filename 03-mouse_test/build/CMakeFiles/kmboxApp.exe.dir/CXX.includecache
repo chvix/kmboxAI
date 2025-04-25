@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../kmbox_libs/include/kmboxAIlib/KeyboardTable.h
+
+../../kmbox_libs/include/kmboxAIlib/common.h
+
+../../kmbox_libs/include/kmboxAIlib/kmboxAI.h
+opencv2/opencv.hpp
+-
+kmboxYOLO.h
+../../kmbox_libs/include/kmboxAIlib/kmboxYOLO.h
+
+../../kmbox_libs/include/kmboxAIlib/kmboxYOLO.h
+kmbox_rknn_api.h
+../../kmbox_libs/include/kmboxAIlib/kmbox_rknn_api.h
+common.h
+../../kmbox_libs/include/kmboxAIlib/common.h
+
+../../kmbox_libs/include/kmboxAIlib/kmbox_rknn_api.h
+stdint.h
+-
+
+/home/kmbox/kmboxAI/03-mouse_test/main.cpp
+iostream
+-
+unistd.h
+-
+chrono
+-
+thread
+-
+kmboxAI.h
+/home/kmbox/kmboxAI/03-mouse_test/kmboxAI.h
+KeyboardTable.h
+/home/kmbox/kmboxAI/03-mouse_test/KeyboardTable.h
+
