@@ -1,0 +1,7 @@
+cd build
+cmake ..
+make
+
+编译后的可执行文件在output中。可执行文件名称为kmboxApp.exe
+
+下载kmboxApp.exe到盒子内部运行即可。

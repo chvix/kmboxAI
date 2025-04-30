@@ -1,0 +1,10 @@
+# Please insure that your custom_dataset are put in same parent dir with YOLOv6_DIR
+train: ./data/kmbox/images/train # train images 训练图片路径
+val: ./data/kmbox/images/val # val images       验证图片路径
+#test: VOCdevkit/voc_07_12/images/val # test images (optional)
+
+# whether it is coco dataset, only coco dataset should be set to True.
+is_coco: False
+# Classes
+nc: 2  # 一共2个class 人头，带头盔。
+names: ['head', 'helmet']  # class names
