@@ -13,6 +13,7 @@
 #define _KMBOX_YOLO_H_
 #include "kmbox_rknn_api.h"
 #include "common.h"
+#include <stdbool.h>
 
 #define OBJ_NUMB_MAX_SIZE 128  //最多检测128个目标
 
