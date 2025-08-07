@@ -93,6 +93,7 @@
 
 pub mod error;
 pub mod keyboard;
+pub mod kmbox_ai;
 pub mod rknn;
 pub mod vision;
 pub mod yolo;
@@ -100,6 +101,7 @@ pub mod yolo;
 // 重新导出常用的类型和函数
 pub use error::{KmboxError, KmboxResult};
 pub use keyboard::{Key, KeyState, Keyboard};
+pub use kmbox_ai::{KmboxAI, MiniUIMode, MouseAction, MouseButton, MousePosition, MouseState};
 pub use rknn::{RknnContext, RknnModel};
 pub use vision::{DetectionResult, Image, ImageFormat, ImageProcessor, ImageRect};
 pub use yolo::{BoundingBox, ObjectType, YoloDetector};
